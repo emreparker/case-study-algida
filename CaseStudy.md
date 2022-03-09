@@ -11,7 +11,7 @@ When it comes to customer acquisition channels, your thoughts are usually drawn 
 
 Referral marketing is one of the most powerful acquisition techniques with a high return on investment since it depends on direct referrals from trustworthy shoppers.
 
-![Untitled](Case%20Study%20e651c/Untitled.png)
+![Untitled](assets/Untitled.png)
 
 <aside>
 💡 **User Type :** Consumers (End-User)
@@ -64,7 +64,7 @@ Some features stay in the shadows while using the application. There are so many
 
 With using time and priority as axis of the graph, user story of prepared below.
 
-![User-Story-Map.png](Case%20Study%20e651c/User-Story-Map.png)
+![User-Story-Map.png](assets/User-Story-Map.png)
 
 ## User Flow Diagrams
 
@@ -72,12 +72,12 @@ User flow diagram is prepared for both inviter and invitee
 
 ### Inviter’s Flow
 
-![Frame 21.png](Case%20Study%20e651c/Frame_21.png)
+![Frame 21.png](assets/Frame_21.png)
 
 ### Invitee’s Flow
 
-![Frame 22.png](Case%20Study%20e651c/Frame_22.png)
+![Frame 22.png](assets/Frame_22.png)
 
 ## Wireframe
 
-![mockup.png](Case%20Study%20e651c/mockup.png)
+![mockup.png](assets/mockup.png)
