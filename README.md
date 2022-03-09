@@ -1,11 +1,8 @@
 # Case Study - Algida ile Kazan
 
-<aside>
-💡 You joined Kaizen Technology as a Product Manager. You have got a goal to increase
-user acquisition with new features. After workshops, one of the selected idea is “Friend
-Invitation” for ”Algida ile Kazan”.
+>💡 You joined Kaizen Technology as a Product Manager. You have got a goal to increase user acquisition with new features. After workshops, one of the selected idea is “Friend Invitation” for ”Algida ile Kazan”.
 
-</aside>
+
 
 When it comes to customer acquisition channels, your thoughts are usually drawn to SEO, paid advertising, and influencer marketing. Referral marketing is a missing piece of the puzzle that enhances the impact of all your acquisition efforts.
 
@@ -13,26 +10,23 @@ Referral marketing is one of the most powerful acquisition techniques with a hig
 
 ![Untitled](assets/Untitled.png)
 
-<aside>
-💡 **User Type :** Consumers (End-User)
-**Channels :** “Algida ile Kazan”, Android App, IOS App,
-**Environments :** Development / Test / Production
-**Brief Intro:** “Algida ile Kazan” is a very popular loyalty & engagement program which is
-used by Algida Consumers. As a team we are aiming to increase user base (acquisition)
-with “Friend Invitation” feature.
 
-**Invitation Code :** As an inviter, users can create & access invitation code which is an
-identifier for friend invitation.
-**Share:** Invitation code can be shared via multiple ways (ie whatsapp).
-Points:
+>* **User Type :** Consumers (End-User)
+>* **Channels :** “Algida ile Kazan”, Android App, IOS App,
+>* **Environments :** Development / Test / Production
+>* **Brief Intro:** “Algida ile Kazan” is a very popular loyalty & engagement program which is used by Algida Consumers. As a team we are aiming to increase user base (acquisition) with “Friend Invitation” feature.
 
-- Inviter Points:
-    - Inviter gets X points if invited user (invitee) register & login to app,
-    - ie inviter gets 50 Points
-- Invitee Points:
-    - Invitee get Y points after invitee registration & login.
-    - ie invitee gets 100 Points
-</aside>
+>* **Invitation Code :** As an inviter, users can create & access invitation code which is an identifier for friend invitation.
+>* **Share:** Invitation code can be shared via multiple ways (ie whatsapp).
+>* **Points:**
+
+>- Inviter Points:
+>    - Inviter gets X points if invited user (invitee) register & login to app,
+>    - ie inviter gets 50 Points
+>- Invitee Points:
+>    - Invitee get Y points after invitee registration & login.
+>    - ie invitee gets 100 Points
+
 
 In this case even it’s not given in the brief, points could be used to get Algida products, digital codes, discount coupons etc. via application. Points could be earned with using the code on the Algida product or referring a friend to the application.
 
